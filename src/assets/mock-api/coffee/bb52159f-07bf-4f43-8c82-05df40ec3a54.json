@@ -1,0 +1,34 @@
+{
+  "id": "bb52159f-07bf-4f43-8c82-05df40ec3a54",
+  "title": "Iced mocha",
+  "category": "iced",
+  "description": "Combine the richness of chocolate milk with a hit of espresso and a whipped cream topping to make a moreish iced mocha – it's like a dessert in a glass",
+  "image": "assets/images/iced-mocha.png",
+  "rating": {
+    "count": 5,
+    "stars": 5
+  },
+  "preparation": {
+    "time": 10,
+    "unit": "minutes"
+  },
+  "ingredients": [
+    "150ml milk",
+    "25g dark chocolate buttons",
+    "ice",
+    "35ml freshly made espresso",
+    "30ml double cream",
+    "pinch cocoa powder or cinnamon"
+  ],
+  "steps": [
+    {
+      "description": "Pour 50ml of the milk into a small pan and add the chocolate buttons. Mix well until melted, then leave to cool."
+    },
+    {
+      "description": "Half-fill a large, tall glass with ice, then pour in the cooled chocolate milk and the remaining 100ml milk and stir to combine."
+    },
+    {
+      "description": "Top up with more ice, then slowly pour in the espresso. Finish with a dollop of whipped cream and a dusting of cocoa powder or cinnamon – or both, if you like."
+    }
+  ]
+}

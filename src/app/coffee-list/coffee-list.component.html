@@ -1,0 +1,11 @@
+<h1 class="text-center">Coffee recipes</h1>
+<p class="lead mb-lg-5 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+
+<div class="row g-2">
+  @for (coffeeRecipe of coffeeRecipes(); track coffeeRecipe.id) {
+    <div class="col-4">
+      <app-coffee-item [coffeeRecipe]="coffeeRecipe"></app-coffee-item>
+    </div>
+  }
+</div>
+

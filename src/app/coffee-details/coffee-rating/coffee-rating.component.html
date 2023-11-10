@@ -1,0 +1,14 @@
+<div class="rating d-flex gap-2">
+  <div class="d-flex gap-1">
+    @for (currentStar of [1,2,3,4,5]; track currentStar)
+    {
+    @if (rating.stars >= currentStar) {
+    <i class="bi-star-fill"></i>
+    }
+    @else {
+    <i class="bi-star"></i>
+    }
+    }
+  </div>
+  {{rating.count}} reviews
+</div>

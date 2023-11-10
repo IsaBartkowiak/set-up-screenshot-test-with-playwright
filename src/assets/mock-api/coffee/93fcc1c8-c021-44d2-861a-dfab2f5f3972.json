@@ -1,0 +1,28 @@
+{
+  "id": "93fcc1c8-c021-44d2-861a-dfab2f5f3972",
+  "title": "Cappuccino",
+  "category": "hot",
+  "description": "Make your favourite morning coffee from scratch – it's easy with the right equipment. We love a creamy cappuccino topped with a sprinkling of cocoa powder",
+  "image": "assets/images/cappucino.png",
+  "rating": {
+    "count": 5,
+    "stars": 4
+  },
+  "preparation": {
+    "time": 5,
+    "unit": "minutes"
+  },
+  "ingredients": [
+    "18g ground espresso",
+    "150ml milk",
+    "cocoa powder"
+  ],
+  "steps": [
+    {
+      "description": "Make around 35ml espresso using a coffee machine and pour it into the base of your cup."
+    },
+    {
+      "description": "Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt the jug to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top. Dust the surface with a little cocoa powder if you like."
+    }
+  ]
+}

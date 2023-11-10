@@ -1,0 +1,42 @@
+[
+  {
+    "id": "65c9ed46-b5f4-44d5-8e50-63e534ddf720",
+    "title": "Latte",
+    "category": "hot",
+    "image": "assets/images/latte.png",
+    "rating": {
+      "count": 24,
+      "stars": 5
+    }
+  },
+  {
+    "id": "93fcc1c8-c021-44d2-861a-dfab2f5f3972",
+    "title": "Cappuccino",
+    "category": "hot",
+    "image": "assets/images/cappucino.png"
+  },
+  {
+    "id": "190f4269-5a77-48ee-9457-604f5d4df2a2",
+    "title": "Matcha latte",
+    "category": "hot",
+    "image": "assets/images/matcha-latte.png"
+  },
+  {
+    "id": "d8942df0-ee32-4498-96c4-e3e605b73e0c",
+    "title": "Iced latte",
+    "category": "iced",
+    "image": "assets/images/iced-latte.png"
+  },
+  {
+    "id": "bb52159f-07bf-4f43-8c82-05df40ec3a54",
+    "title": "Iced mocha",
+    "category": "iced",
+    "image": "assets/images/iced-mocha.png"
+  },
+  {
+    "id": "7ecfef8b-f769-4f72-967e-89c8379792d7",
+    "title": "Irish coffee",
+    "category": "hot",
+    "image": "assets/images/irish-coffee.png"
+  }
+]

@@ -1,0 +1,12 @@
+<article class="card">
+  <div class="card-img-top overflow-hidden">
+    <img class="coffee-item-img" [src]="coffeeRecipe.image" height="200" [alt]="coffeeRecipe.title">
+  </div>
+  <div class="card-body">
+    <h6 class="card-title">
+      {{coffeeRecipe.title}}
+      <span class="badge bg-light text-dark">{{coffeeRecipe.category}}</span>
+    </h6>
+    <a [routerLink]="['details', coffeeRecipe.id]" class="btn btn-primary btn-sm">See more</a>
+  </div>
+</article>

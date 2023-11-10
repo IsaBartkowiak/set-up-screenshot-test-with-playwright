@@ -1,0 +1,27 @@
+{
+  "id": "65c9ed46-b5f4-44d5-8e50-63e534ddf720",
+  "title": "Latte",
+  "category": "hot",
+  "description": "Dust off that coffee machine and learn a few barista skills on how to make a latte. Our easy creamy latte recipe takes breakfast, or brunch, to the next level",
+  "image": "assets/images/latte.png",
+  "rating": {
+    "count": 24,
+    "stars": 5
+  },
+  "preparation": {
+    "time": 5,
+    "unit": "minutes"
+  },
+  "ingredients": [
+    "18g ground espresso",
+    "250ml milk"
+  ],
+  "steps": [
+    {
+      "description": "Make around 35ml espresso using your coffee machine and pour it into the base of your cup."
+    },
+    {
+      "description": "Steam the milk with the steamer attachment so that it has around 2-3cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top."
+    }
+  ]
+}

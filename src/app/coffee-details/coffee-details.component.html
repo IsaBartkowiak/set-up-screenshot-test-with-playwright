@@ -1,0 +1,28 @@
+<a routerLink="/" class="btn btn-outline-primary mb-3">
+  <i class="bi-arrow-left"></i>
+  Back
+</a>
+
+<article *ngIf="coffeeRecipe() as coffeeRecipe">
+  <header class="row mb-5">
+    <div class="col-12 col-sm-3">
+      <img class="rounded img-fluid" [src]="coffeeRecipe.image!" [alt]="coffeeRecipe.title">
+    </div>
+    <div class="col-12 col-sm-9">
+      <h2>{{coffeeRecipe.title}}</h2>
+      <p>{{coffeeRecipe.description}}</p>
+      <app-coffee-rating [rating]="coffeeRecipe.rating"></app-coffee-rating>
+    </div>
+  </header>
+
+  <div class="row">
+    <aside class="col-12 col-md-4">
+      <app-coffee-preparation [preparation]="coffeeRecipe.preparation"></app-coffee-preparation>
+      <hr>
+      <app-coffee-ingredients [ingredients]="coffeeRecipe.ingredients"></app-coffee-ingredients>
+    </aside>
+    <main class="col-12 col-md-8">
+      <app-coffee-steps [steps]="coffeeRecipe.steps"></app-coffee-steps>
+    </main>
+  </div>
+</article>

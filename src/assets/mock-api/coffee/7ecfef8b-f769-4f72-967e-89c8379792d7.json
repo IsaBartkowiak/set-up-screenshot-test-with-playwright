@@ -1,0 +1,30 @@
+{
+  "id": "7ecfef8b-f769-4f72-967e-89c8379792d7",
+  "category": "hot",
+  "title": "Irish coffee",
+  "description": "Indulge dinner guests with a classic Irish coffee at the end of a dinner party. Made with Irish whiskey, cream and coffee, it's a decadent finale to a meal",
+  "image": "assets/images/irish-coffee.png",
+  "rating": {
+    "count": 12,
+    "stars": 5
+  },
+  "preparation": {
+    "time": 5,
+    "unit": "minutes"
+  },
+  "ingredients": [
+    "2 tbsp double cream",
+    "150ml freshly brewed black coffee",
+    "50ml Irish whiskey",
+    "½ - 1 tsp brown sugar",
+    "pinch freshly grated nutmeg"
+  ],
+  "steps": [
+    {
+      "description": "Lightly whip the cream just so it’s very slightly thickened, then set aside."
+    },
+    {
+      "description": "Pour the hot coffee into a mug or heatproof glass, then add the whiskey and sugar. Stir until the sugar has dissolved. Gently float the cream on the top and sprinkle the nutmeg over the cream. Serve hot."
+    }
+  ]
+}

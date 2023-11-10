@@ -1,0 +1,32 @@
+{
+  "id": "d8942df0-ee32-4498-96c4-e3e605b73e0c",
+  "title": "Iced latte",
+  "category": "iced",
+  "description": "Cool off with a refreshing iced latte. This simple drink only needs a handful of ingredients and is perfect for a hot weather caffeine kick",
+  "image": "assets/images/iced-latte.png",
+  "rating": {
+    "count": 8,
+    "stars": 3
+  },
+  "preparation": {
+    "time": 6,
+    "unit": "minutes"
+  },
+  "ingredients": [
+    "2 espresso shots (60ml)",
+    "2 tsp sugar, honey or maple syrup (to taste)",
+    "ice",
+    "100ml whole milk"
+  ],
+  "steps": [
+    {
+      "description": "Mix the hot espresso with the sugar until it dissolves."
+    },
+    {
+      "description": "Fill a glass with ice and stir in the sweetened coffee."
+    },
+    {
+      "description": "Pour over the milk and stir until combined."
+    }
+  ]
+}
